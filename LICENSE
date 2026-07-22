@@ -1,0 +1,52 @@
+PROPRIETARY COMMERCIAL LICENSE & COPYRIGHT NOTICE
+(TÜM HAKLARI SAKLIDIR / ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 - Akıllı Kafe ve Restoran Yönetim Otomasyonu
+Tüm Fikri ve Sınai Mülkiyet Hakları Saklıdır.
+
+================================================================================
+YASAL UYARI VE KULLANIM ŞARTLARI (LEGAL NOTICE & TERMS OF USE)
+================================================================================
+
+Bu yazılım paketi ("Akıllı Kafe ve Restoran Yönetim Otomasyonu"), kaynak kodları,
+veritabanı şemaları, arayüz tasarımları, görsel elementleri, algoritmaları ve
+derlenmiş çalıştırılabilir dosyaları (.exe, .dll vb.) dahil olmak üzere 
+Fikir ve Sanat Eserleri Kanunu ile Uluslararası Telif Hakkı Sözleşmeleri 
+kapsamında yasal koruma altındadır.
+
+Yazılım sahibinin resmi, yazılı ve ıslak imzalı/dijital onaylı lisans izni 
+olmaksızın aşağıda belirtilen eylemlerin tamamı KESİNLİKLE YASAKTIR:
+
+1. KULLANIM VE KURULUM YASAĞI:
+   Bu yazılım, hiçbir şekilde, hiçbir kafe, restoran, lokanta, otel veya ticari/kişisel
+   işletmede kurularak doğrudan veya dolaylı operasyonel amaçlarla KULLANILAMAZ.
+
+2. KOPYALAMA VE DAĞITIM YASAĞI:
+   Projenin kaynak kodlarının veya derlenmiş dosyalarının tamamı veya bir kısmı 
+   kopyalanamaz, çoğaltılamaz, üçüncü şahıslara veya kurumlara dağıtılamaz, 
+   ücretli veya ücretsiz olarak pazarlanamaz ve satılamaz.
+
+3. DEĞİŞİKLİK VE TERSİNE MÜHENDİSLİK (REVERSE ENGINEERING) YASAĞI:
+   Yazılım kodları üzerinde türetilmiş eser (derivative work) oluşturulamaz;
+   derlenmiş .exe veya .dll dosyaları üzerinde decompile, disasm, dnSpy, ILSpy vb.
+   araçlarla tersine mühendislik, bellek dökümü (memory dump) veya lisans kırma/bypass
+   girişimlerinde bulunulamaz.
+
+4. GİTHUB VE DEPO ERİŞİMİ:
+   Bu projenin GitHub üzerinde açık veya gizli olarak barındırılması, deponun
+   görüntülenmesi veya indirilmesi kullanıcılara hiçbir ticari, kişisel kullanım veya
+   lisans hakkı VERMEZ. Bu depo yalnızca portföy, akademik inceleme ve mimari
+   değerlendirme amacıyla sergilenmektedir.
+
+================================================================================
+DONANIM KİLİDİ (HWID) VE GÜVENLİK İHLALİ YAPTIRIMLARI
+================================================================================
+Bu yazılım, aktif olarak Donanım Kimliği Doğrulama (HWID Binding) ve Tersine Mühendislik
+Koruma kalkanları ile zırhlanmıştır. İzinsiz kullanım ve kopyalama girişimleri 
+yazılım seviyesinde engellendiği gibi, telif hakkı ihlalinde bulunan gerçek ve tüzel 
+kişiler hakkında 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile Türk Ceza Kanunu'nun 
+bilişim suçlarına ilişkin hükümleri uyarınca hukuki ve cezai yasal yollara başvurulacaktır.
+
+İletişim ve Resmi Lisans Talepleri İçin:
+Projenin resmi geliştiricisi/sahibi ile iletişime geçiniz.
+================================================================================
